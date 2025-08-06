@@ -47,11 +47,7 @@ Training graphs for loss, accuracy, and F1 score per epoch are included in the `
 
 To recreate the reported performance or train the models from scratch:
 
-1. Clone the original repository by Rohr et al.:
-
-<pre> ```bash git clone https://github.com/ChristophReich1996/ECG_Classification.git cd ECG_Classification 
-```</pre>
-
+1. Clone the original repository by [Rohr et al.](https://github.com/ChristophReich1996/ECG_Classification):
 2. Replace the following files in the cloned repo with the modified versions from this project:
 - `train.py`
 - `config.py`
