@@ -51,7 +51,7 @@ To recreate the reported performance or train the models from scratch:
 
 <pre> ```bash git clone https://github.com/ChristophReich1996/ECG_Classification.git
 cd ECG_Classification ```
-  <\pre>
+</pre>
 
 2. Replace the following files in the cloned repo with the modified versions from this project:
 - `train.py`
